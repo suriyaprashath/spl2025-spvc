@@ -25,6 +25,7 @@ dist/
 
 # Logs
 *.log
+/notebooks/logs/*
 
 # OS generated files
 .DS_Store
